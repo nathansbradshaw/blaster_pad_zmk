@@ -1,0 +1,8 @@
+file_format: "1"
+id: blaster_pad
+name: Blaster_pad
+type: shield
+url: none
+requires: [pro_micro]
+features:
+  - keys
